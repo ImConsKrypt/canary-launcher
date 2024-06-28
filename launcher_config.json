@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "http://kryptopia.com/resources/KryptopiaClient_v1.zip",
+	"newClientUrl" : "http://kryptopia.com/resources/upload/KryptopiaClient_v1.zip",
 	"clientExecutable": "client.exe"
 }
